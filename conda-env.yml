@@ -1,0 +1,5 @@
+name: cv
+
+dependencies:
+  - python==3.9
+  - opencv
