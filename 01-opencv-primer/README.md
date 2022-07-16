@@ -20,10 +20,10 @@ Download and Install [PyCharm community](https://www.jetbrains.com/pycharm/downl
 1.  Open the relevant project.
 2.  Press "Ctrl + Alt + S" to open the Settings screen.
 3.  Select Project: XXXXXXX> Project Interpreter from the left pane.
-![settings](./docs/settings.png)
+![settings](../docs/settings.png)
 
 4.  Select "Gear mark> Add" on the Project Interpreter screen.
-![add](./docs/add.png)
+![add](../docs/add.png)
 
 5. When the Add Python Interpreter screen is displayed, choose Conda Environment from the left pane.
 6. Check "Existing environment" and select the Anaconda environment you created earlier.
